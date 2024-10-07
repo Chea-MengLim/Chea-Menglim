@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chea-menglim" alt="chea-menglim" /></a> </p>
 
-- 🌱 I’m currently conducting research on AI
+- 🌱 I’m currently conducting research on LLM
 
-- 💬 Ask me about **Python, FastAPI**
+- 💬 Ask me about **Python, FastAPI, Langserve**
 
 - 📫 How to reach me **menglimchea@gmail.com**
 
